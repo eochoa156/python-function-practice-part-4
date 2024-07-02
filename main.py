@@ -10,8 +10,8 @@ def mult_list(lst):
       prod = prod * i
   return prod
 
-def rev_string():
-    return ()
+def rev_string(my_str):
+    return my_str[::-1]
 
 def num_within():
     return ()
