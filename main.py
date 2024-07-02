@@ -13,5 +13,5 @@ def mult_list(lst):
 def rev_string(my_str):
     return my_str[::-1]
 
-def num_within():
-    return ()
+def num_within(x,a,b):
+  return x in range(a,b+1)
